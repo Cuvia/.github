@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cuvia/.github/main/logo.svg" width="100" alt="Cuvia">
+  <img src="https://raw.githubusercontent.com/cuvia/.github/main/logo.png" width="100" alt="Cuvia">
   <h1>Cuvia</h1>
   <p><em>Everything is a component.</em></p>
 </div>
